@@ -1,3 +1,7 @@
+## Covid19 data chart | data source: [coronadatascraper.com](https://coronadatascraper.com)
+
+API coded with python can be found [here](https://github.com/CamposBruno/covid19-flask-api)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

@@ -3,7 +3,9 @@
 API coded with python can be found [here](https://github.com/CamposBruno/covid19-flask-api)
 
 This is a react project.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 Pull requests are welcomed.
 
 ## Available Scripts
